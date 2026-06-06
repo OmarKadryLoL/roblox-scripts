@@ -926,3 +926,6 @@ type BaseServiceServer = typeof(BaseServiceServer) & {
 }
 
 return BaseServiceServer :: BaseServiceServer
+
+
+-- The code was entirely developed and programmed by CodeKadry
