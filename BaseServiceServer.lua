@@ -1,5 +1,3 @@
--- Connected Discord-GitHub | Discord: YourUsername#0000 | Roblox: YourRobloxUsername
-
 --[[
     BaseServiceServer
     
